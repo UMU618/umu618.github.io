@@ -4,7 +4,7 @@
   <subtitle><![CDATA[天地玄黄，宇宙洪荒，度修七鹰劫，证悟神通。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.umutech.com/"/>
-  <updated>2015-03-18T11:07:38.676Z</updated>
+  <updated>2015-03-17T03:22:43.897Z</updated>
   <id>http://blog.umutech.com/</id>
   
   <author>
@@ -13,34 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[诗盗·抒心事]]></title>
-    <link href="http://blog.umutech.com/2027/09/04/reconstructionism-poet-expressing-feelings/"/>
-    <id>http://blog.umutech.com/2027/09/04/reconstructionism-poet-expressing-feelings/</id>
-    <published>2027-09-04T12:37:00.000Z</published>
-    <updated>2015-03-18T11:07:38.676Z</updated>
-    <content type="html"><![CDATA[<p>《#诗盗#·抒心事》 ：里牛克斯意境深，视窗话漏未成因。光驱急转追黄碟，切入全屏无处寻。</p>
-<p>改编自宋朝杨万里的《宿新市徐公店》。</p>
-<blockquote>
-<p>篱落疏疏一径深，<br>树头花落未成阴。<br>儿童急走追黄蝶，<br>飞入菜花无处寻。</p>
-</blockquote>
-<p>注解：Linux 很高深，都说视窗漏洞多，不安全，但这并未成为人民群众不用它的理由。人民群众用电脑只是看看黄碟，只要光驱转起来，不管它是什么系统，切换到全屏就看不出什么系统了，没区别。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>《#诗盗#·抒心事》 ：里牛克斯意境深，视窗话漏未成因。光驱急转追黄碟，切入全屏无处寻。</p>
-<p>改编自宋朝杨万里的《宿新市徐公店》。</p>
-<blockquote>
-<p>篱落疏疏一径深，<br>树头花落未成阴。<br>儿童急走追黄蝶，<br>飞入菜花无处寻。</]]>
-    </summary>
-    
-      <category term="七律" scheme="http://blog.umutech.com/tags/%E4%B8%83%E5%BE%8B/"/>
-    
-      <category term="诗盗" scheme="http://blog.umutech.com/tags/%E8%AF%97%E7%9B%97/"/>
-    
-      <category term="诗盗" scheme="http://blog.umutech.com/categories/%E8%AF%97%E7%9B%97/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[CSDN 被墙真相]]></title>
@@ -225,6 +197,90 @@
       <category term="死神" scheme="http://blog.umutech.com/tags/%E6%AD%BB%E7%A5%9E/"/>
     
       <category term="梦" scheme="http://blog.umutech.com/categories/%E6%A2%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[诗盗·惨付2]]></title>
+    <link href="http://blog.umutech.com/2009/05/14/reconstructionism-poet-pay-a-painful-price-2/"/>
+    <id>http://blog.umutech.com/2009/05/14/reconstructionism-poet-pay-a-painful-price-2/</id>
+    <published>2009-05-14T00:58:14.000Z</published>
+    <updated>2015-03-18T11:19:43.594Z</updated>
+    <content type="html"><![CDATA[<p>《#诗盗#·惨付》：昨日苦加班，归来黑眼圈。满眼红丝者，皆是编程员。<br>《#诗盗#·惨付2》：昨夜狂加班，归来熊猫眼。双目红丝者，皆是程序员。</p>
+<p>改编自宋代张俞的《蚕妇》。</p>
+<blockquote>
+<p>昨日入城市，<br>归来泪满巾。<br>遍身罗绮者，<br>不是养蚕人。</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《#诗盗#·惨付》：昨日苦加班，归来黑眼圈。满眼红丝者，皆是编程员。<br>《#诗盗#·惨付2》：昨夜狂加班，归来熊猫眼。双目红丝者，皆是程序员。</p>
+<p>改编自宋代张俞的《蚕妇》。</p>
+<blockquote>
+<p>昨日入城市，<br>归来泪满巾。<br>遍身]]>
+    </summary>
+    
+      <category term="五言" scheme="http://blog.umutech.com/tags/%E4%BA%94%E8%A8%80/"/>
+    
+      <category term="诗盗" scheme="http://blog.umutech.com/tags/%E8%AF%97%E7%9B%97/"/>
+    
+      <category term="诗盗" scheme="http://blog.umutech.com/categories/%E8%AF%97%E7%9B%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[诗盗·惨付]]></title>
+    <link href="http://blog.umutech.com/2009/05/12/reconstructionism-poet-pay-a-painful-price/"/>
+    <id>http://blog.umutech.com/2009/05/12/reconstructionism-poet-pay-a-painful-price/</id>
+    <published>2009-05-12T04:08:21.000Z</published>
+    <updated>2015-03-18T11:18:25.943Z</updated>
+    <content type="html"><![CDATA[<p>《#诗盗#·惨付》：昨日苦加班，归来黑眼圈。满眼红丝者，皆是编程员。</p>
+<p>改编自宋代张俞的《蚕妇》。</p>
+<blockquote>
+<p>昨日入城市，<br>归来泪满巾。<br>遍身罗绮者，<br>不是养蚕人。</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《#诗盗#·惨付》：昨日苦加班，归来黑眼圈。满眼红丝者，皆是编程员。</p>
+<p>改编自宋代张俞的《蚕妇》。</p>
+<blockquote>
+<p>昨日入城市，<br>归来泪满巾。<br>遍身罗绮者，<br>不是养蚕人。</p>
+</blockquote>
+]]>
+    </summary>
+    
+      <category term="五言" scheme="http://blog.umutech.com/tags/%E4%BA%94%E8%A8%80/"/>
+    
+      <category term="诗盗" scheme="http://blog.umutech.com/tags/%E8%AF%97%E7%9B%97/"/>
+    
+      <category term="诗盗" scheme="http://blog.umutech.com/categories/%E8%AF%97%E7%9B%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[诗盗·抒心事]]></title>
+    <link href="http://blog.umutech.com/2009/04/27/reconstructionism-poet-expressing-feelings/"/>
+    <id>http://blog.umutech.com/2009/04/27/reconstructionism-poet-expressing-feelings/</id>
+    <published>2009-04-27T12:37:00.000Z</published>
+    <updated>2015-03-18T11:12:31.075Z</updated>
+    <content type="html"><![CDATA[<p>《#诗盗#·抒心事》 ：里牛克斯意境深，视窗话漏未成因。光驱急转追黄碟，切入全屏无处寻。</p>
+<p>改编自宋朝杨万里的《宿新市徐公店》。</p>
+<blockquote>
+<p>篱落疏疏一径深，<br>树头花落未成阴。<br>儿童急走追黄蝶，<br>飞入菜花无处寻。</p>
+</blockquote>
+<p>注解：Linux 很高深，都说视窗漏洞多，不安全，但这并未成为人民群众不用它的理由。人民群众用电脑只是看看黄碟，只要光驱转起来，不管它是什么系统，切换到全屏就看不出什么系统了，没区别。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《#诗盗#·抒心事》 ：里牛克斯意境深，视窗话漏未成因。光驱急转追黄碟，切入全屏无处寻。</p>
+<p>改编自宋朝杨万里的《宿新市徐公店》。</p>
+<blockquote>
+<p>篱落疏疏一径深，<br>树头花落未成阴。<br>儿童急走追黄蝶，<br>飞入菜花无处寻。</]]>
+    </summary>
+    
+      <category term="七律" scheme="http://blog.umutech.com/tags/%E4%B8%83%E5%BE%8B/"/>
+    
+      <category term="诗盗" scheme="http://blog.umutech.com/tags/%E8%AF%97%E7%9B%97/"/>
+    
+      <category term="诗盗" scheme="http://blog.umutech.com/categories/%E8%AF%97%E7%9B%97/"/>
     
   </entry>
   
